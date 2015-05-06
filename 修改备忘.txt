@@ -1,3 +1,7 @@
-20150504 ControlPanelV0.1 继电器控制，指示灯控制，呼吸灯控制基本功能实现（独立部分）
+20150504 ControlPanelsV0.1 继电器控制，指示灯控制，呼吸灯控制基本功能实现（独立部分）
 
-20150505 ControlPanelV0.2 基本功能实现（整体）
+20150505 ControlPanelsV0.2 基本功能实现（整体）
+
+20150506 ControlPanelsV0.3 添加关键函数注释
+
+20150506 ControlPanelsV0.4 移植好rs485部分,未测试
