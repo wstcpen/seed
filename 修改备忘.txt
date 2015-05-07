@@ -5,3 +5,5 @@
 20150506 ControlPanelsV0.3 添加关键函数注释
 
 20150506 ControlPanelsV0.4 移植好rs485部分,未测试
+
+20150507 ControlPanelsV0.6 重新设计硬件前的备份（为了生成一个定时器）
