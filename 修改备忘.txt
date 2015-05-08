@@ -7,3 +7,5 @@
 20150506 ControlPanelsV0.4 移植好rs485部分,未测试
 
 20150507 ControlPanelsV0.6 重新设计硬件前的备份（为了生成一个定时器）
+
+20150508 ControlPanels.cydsnV0.7.rar 定时器可以使用（硬件设计图重新设计）
