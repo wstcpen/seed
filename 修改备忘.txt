@@ -15,3 +15,5 @@
 20150508 ControlPanels.cydsnV0.9.rar +uart接收中断
 
 20150508 ControlPanels.cydsnV1.0.rar 移植好rs485部分，可以进行模拟测试
+
+20150509 ControlPanels.cydsnV1.0.rar 广播包发送测试成功FF200DSPB49999900A0100，rxBuf[16] = rs485_crc8( rxBuf,16);
