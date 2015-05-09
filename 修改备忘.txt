@@ -13,3 +13,5 @@
 20150508 ControlPanels.cydsnV0.8.rar +curtain分支
 
 20150508 ControlPanels.cydsnV0.9.rar +uart接收中断
+
+20150508 ControlPanels.cydsnV1.0.rar 移植好rs485部分，可以进行模拟测试
