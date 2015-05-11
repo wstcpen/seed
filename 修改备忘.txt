@@ -18,4 +18,6 @@
 
 20150509 ControlPanels.cydsnV1.1.rar 广播包发送测试成功FF200DSPB49999900A0100，rxBuf[16] = rs485_crc8( rxBuf,16);
 
-20150509 ControlPanels.cydsnV1.2.rar 呼吸灯实现，下一步进行所有指示灯整合
+20150509 ControlPanels.cydsnV1.2.rar 定时器呼吸灯实现，下一步进行所有指示灯整合
+
+20150511 ControlPanels.cydsnV1.3.rar 备份
