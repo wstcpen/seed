@@ -21,3 +21,5 @@
 20150509 ControlPanels.cydsnV1.2.rar 定时器呼吸灯实现，下一步进行所有指示灯整合
 
 20150511 ControlPanels.cydsnV1.3.rar 备份
+
+20150512 ControlPanels.cydsnV1.4.rar 会出现灯渐灭的时候突然一亮bug
