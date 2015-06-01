@@ -29,3 +29,5 @@
 20150601 ControlPanels.cydsnV1.6.rar 解决“时序问题”bug2
 
 20150601 ControlPanels.cydsnV1.7.rar 485通讯可用
+
+20150601 ControlPanels.cydsnV1.8.rar 485通讯可用（）增加了控制设备的函数
