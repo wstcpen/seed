@@ -27,3 +27,5 @@
 20150601 ControlPanels.cydsnV1.5.rar 解决长时间按下的渐灭问题bug1
 
 20150601 ControlPanels.cydsnV1.6.rar 解决“时序问题”bug2
+
+20150601 ControlPanels.cydsnV1.7.rar 485通讯可用
