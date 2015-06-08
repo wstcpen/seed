@@ -31,3 +31,5 @@
 20150601 ControlPanels.cydsnV1.7.rar 485通讯可用
 
 20150601 ControlPanels.cydsnV1.8.rar 485通讯可用（）增加了控制设备的函数
+
+20150608 ControlPanels.cydsnV1.9.rar 完善了所有模拟数据包的函数
