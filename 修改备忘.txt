@@ -35,3 +35,5 @@
 20150608 ControlPanels.cydsnV1.9.rar 完善了所有模拟数据包的函数
 
 20150611 ControlPanels.cydsnV2.0.rar 修复bug3，解决“快速连续触摸”情况下会产生的指示灯错误显示问题
+
+20150611 ControlPanels.cydsnV2.1.rar 样板测试前的最新版本，删除了之前版本中的一些不需要的变量，注释等等。
