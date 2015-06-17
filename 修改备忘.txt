@@ -39,3 +39,5 @@
 20150611 ControlPanels.cydsnV2.1.rar 样板测试前的最新版本，删除了之前版本中的一些不需要的变量，注释等等。
 
 20150616 ControlPanels.cydsnV2.2.rar 新板（Ver1.5）测试程序,板子中的0欧电阻R33不接，C33电容可接可不接
+
+20150617 ControlPanels.cydsnV2.3.rar 在新板（Ver1.5）实现之前的版本所有功能
