@@ -45,3 +45,5 @@
 20150618 ControlPanels.cydsnV2.4.rar 重新整理工程
 
 20150618 ControlPanels.cydsnV2.5.rar 除485硬件未测
+
+20150624 ControlPanels.cydsnv2.6.rar 可通讯
